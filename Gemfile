@@ -55,3 +55,4 @@ group :test, :development do
 end
 
 gem 'themoviedb'
+gem 'factory_girl_rails'
